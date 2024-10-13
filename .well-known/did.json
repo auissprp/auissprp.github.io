@@ -11,9 +11,9 @@
       "controller": "did:web:auissprp.github.io",
       "publicKeyJwk": {
         "kty": "EC",
-        "crv": "secp256k1",
-        "x": "7afa3a377b5808e4223dd62542a6e7e46ab0be958734645.................",
-        "y": "58b050b73f31f1b8b98c0b04513257433bdad2a51188642................."
+        "crv": "P-256",
+        "x": "9imIdhp-U7ZAWeJUiVcr6PhRIorMupf2h16E18OlkLM",
+        "y": "evtTX4yGcC6m4nuSaMJdnoFq7BmE4U16iftXGFLQHCU"
       }
     }
   ],
