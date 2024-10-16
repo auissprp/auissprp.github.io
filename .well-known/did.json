@@ -6,10 +6,11 @@
   "id": "did:web:auissprp.github.io",
   "verificationMethod": [
     {
-      "id": "did:web:auissprp.github.io#owner",
+      "id": "did:web:auissprp.github.io#Q9KaLfkgjYuOclu9Qxzyhi4fLVCcNmq64LA3gKE3bv4",
       "type": "JsonWebKey2020",
       "controller": "did:web:auissprp.github.io",
       "publicKeyJwk": {
+	      "kid": "Q9KaLfkgjYuOclu9Qxzyhi4fLVCcNmq64LA3gKE3bv4",
         "kty": "EC",
         "crv": "P-256",
         "x": "9imIdhp-U7ZAWeJUiVcr6PhRIorMupf2h16E18OlkLM",
@@ -18,9 +19,15 @@
     }
   ],
   "authentication": [
-    "did:web:auissprp.github.io#owner"
+    "did:web:auissprp.github.io#Q9KaLfkgjYuOclu9Qxzyhi4fLVCcNmq64LA3gKE3bv4"
   ],
   "assertionMethod": [
-    "did:web:auissprp.github.io#owner"
+    "did:web:auissprp.github.io#Q9KaLfkgjYuOclu9Qxzyhi4fLVCcNmq64LA3gKE3bv4"
+  ],
+  "capabilityInvocation": [
+    "did:web:auissprp.github.io#Q9KaLfkgjYuOclu9Qxzyhi4fLVCcNmq64LA3gKE3bv4"
+  ],
+  "capabilityDelegation": [
+    "did:web:auissprp.github.io#Q9KaLfkgjYuOclu9Qxzyhi4fLVCcNmq64LA3gKE3bv4"
   ]
 }
