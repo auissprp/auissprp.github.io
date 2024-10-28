@@ -6,28 +6,28 @@
   "id": "did:web:auissprp.github.io",
   "verificationMethod": [
     {
-      "id": "did:web:auissprp.github.io#Q9KaLfkgjYuOclu9Qxzyhi4fLVCcNmq64LA3gKE3bv4",
+      "id": "did:web:auissprp.github.io#sWTgO3J188S03O0uUxEotquypPDGZ3MJF2mx22H_MU0",
       "type": "JsonWebKey2020",
       "controller": "did:web:auissprp.github.io",
       "publicKeyJwk": {
-	"kid": "Q9KaLfkgjYuOclu9Qxzyhi4fLVCcNmq64LA3gKE3bv4",
+	"kid": "sWTgO3J188S03O0uUxEotquypPDGZ3MJF2mx22H_MU0",
         "kty": "EC",
         "crv": "P-256",
-        "x": "9imIdhp-U7ZAWeJUiVcr6PhRIorMupf2h16E18OlkLM",
-        "y": "evtTX4yGcC6m4nuSaMJdnoFq7BmE4U16iftXGFLQHCU"
+        "x": "Gjlrp-6IFlfmpFAYu0ESVNv6-Um22Y3vrBWOTeqmqUQ",
+        "y": "cldVzQyTn5h2TJ3GJba-ADbKbhNps49sQ8W1IBBlf80"
       }
     }
   ],
   "authentication": [
-    "did:web:auissprp.github.io#Q9KaLfkgjYuOclu9Qxzyhi4fLVCcNmq64LA3gKE3bv4"
+    "did:web:auissprp.github.io#sWTgO3J188S03O0uUxEotquypPDGZ3MJF2mx22H_MU0"
   ],
   "assertionMethod": [
-    "did:web:auissprp.github.io#Q9KaLfkgjYuOclu9Qxzyhi4fLVCcNmq64LA3gKE3bv4"
+    "did:web:auissprp.github.io#sWTgO3J188S03O0uUxEotquypPDGZ3MJF2mx22H_MU0"
   ],
   "capabilityInvocation": [
-    "did:web:auissprp.github.io#Q9KaLfkgjYuOclu9Qxzyhi4fLVCcNmq64LA3gKE3bv4"
+    "did:web:auissprp.github.io#sWTgO3J188S03O0uUxEotquypPDGZ3MJF2mx22H_MU0"
   ],
   "capabilityDelegation": [
-    "did:web:auissprp.github.io#Q9KaLfkgjYuOclu9Qxzyhi4fLVCcNmq64LA3gKE3bv4"
+    "did:web:auissprp.github.io#sWTgO3J188S03O0uUxEotquypPDGZ3MJF2mx22H_MU0"
   ]
 }
